@@ -13,6 +13,6 @@ Create a react application for user login
 
 #### User Credentials
 
-Name     : (Optional)
-Email    : admin@admin.com (required)
+Name     : (Optional)  
+Email    : admin@admin.com (required)  
 Password : admin@123 (required)
